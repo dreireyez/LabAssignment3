@@ -27,4 +27,4 @@ Adapter Objects:
 ## Class Diagram
 (Class Diagram Placeholder)
 
-<i>This assignment was done in Java.</i>
+<i>This assignment was done in Java through a GitHub Codespace.</i>
