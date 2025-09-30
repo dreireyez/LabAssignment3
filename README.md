@@ -25,6 +25,6 @@ Adapter Objects:
 </ul>
 
 ## Class Diagram
-(Class Diagram Placeholder)
+![Class Diagram](ClassDiagram.png)
 
 <i>This assignment was done in Java through a GitHub Codespace.</i>
